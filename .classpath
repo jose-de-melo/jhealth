@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jar/BinaryFile.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/AvaliacaoFisica/jar/BinaryFile.jar!/doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jar/jfreechart-1.0.19.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.jfree.org/jfreechart/api/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jar/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="jar/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="jar/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="jar/itext5-itextpdf-5.5.11.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://itextsupport.com/apidocs/itext5/latest"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
