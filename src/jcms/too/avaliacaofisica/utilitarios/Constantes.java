@@ -68,7 +68,7 @@ public class Constantes {
 	/**
 	 * Define o nome da aplicação.
 	 */
-	public static final String NOME_PROGRAMA = "Avaliação Física";
+	public static final String NOME_PROGRAMA = "JHealth";
 	/**
 	 * Representa o nome de um tipo de gráfico
 	 */

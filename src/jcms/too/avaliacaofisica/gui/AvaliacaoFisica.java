@@ -44,7 +44,7 @@ public class AvaliacaoFisica extends JFrame {
 	 * Cria uma nova instância <code>AvaliacaoFisica</code>.
 	 */
 	public AvaliacaoFisica() {
-		setTitle("Avaliação Física");
+		setTitle(Constantes.NOME_PROGRAMA);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(0, 0, 340, 471);
 		setLocationRelativeTo(null);
